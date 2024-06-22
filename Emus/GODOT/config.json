@@ -1,0 +1,20 @@
+{
+"label":"GODOT",
+"icon":"GODOT.png",
+"iconsel":"",
+"background":"bg.png",
+"themecolor":"0000FF",
+"launch":"launch_3_5_2.sh",
+"rompath":"../../Roms/GODOT",
+"imgpath":"../../Imgs/GODOT",
+"useswap":1,
+"shortname":1,
+"hidebios":1,
+"extlist":"pck",
+    "launchlist": [
+        {
+            "name": "GODOT 3.5.2",
+            "launch": "launch_3_5_2.sh"
+        }
+    ]
+}
